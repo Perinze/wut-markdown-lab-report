@@ -68,7 +68,7 @@ table, th, td {
 
 ### 运行结果
 
-<img src="img/2.png" width="90%">
+<img src="img/1.png" width="90%">
 
 <p align="right">教师签字________</p>
 
